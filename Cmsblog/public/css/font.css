@@ -1,0 +1,7 @@
+@font-face {
+font-family:'Myanmar3';
+src:local('Myanmar3'), url('https://www.mmwebfonts.com/fonts/myanmar3.woff') format('woff'), url('https://www.mmwebfonts.com/fonts/myanmar3.ttf') format('ttf');
+}
+*{
+  font-family:'Myanmar3';
+}

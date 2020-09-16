@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+OPTIONS -Indexes
+#Ban Loacal Ip
+deny from 0.0.0.0
+deny from 127.0.0.1
+</IfModule>
